@@ -30,11 +30,14 @@ Users should be able to:
 
 ![](Desktop_Version.png)
 ![](Mobile_Version.png)
+![](html.png)
+![](css.png)
+![](javascript.png)
 
 ### Links
 
 - Solution URL: (https://github.com/Alinist/Notification_Page)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://alinist.github.io/Notification_Page/)
 
 ## My process
 
